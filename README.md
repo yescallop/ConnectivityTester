@@ -7,9 +7,9 @@ A Java HTTP/HTTPS connectivity tester based on Apache HttpClient
     3. Run the jar, input the number of times you want to test each IP address, then press enter
 
 # Example of ips.txt
-    ```
+```
     https://steamcommunity.com/
     118.214.249.13
     23.10.6.47
     118.215.176.59
-    ```
+```
